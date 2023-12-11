@@ -1,7 +1,7 @@
 #%%
 import numpy as np
 import pandas as pd
-apples = pd.read_csv('../02 data/AppleStockPrices.csv')
+apples = pd.read_csv('../02-data/AppleStockPrices.csv')
 
 #%%
 print(apples)
