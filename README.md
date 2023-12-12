@@ -6,13 +6,13 @@ In this repo projects each have a sub-directory. The file structure reflects pro
 
 So the general structure is:
 
-- Notes (including my own refe
-- Any data (spreadhseets mostly)
-- Explore (initial explorations, get a general sense how the data is structured)
+- **Notes** (including my own references and sources for data ... usually kaggle)
+- **Data** (spreadhseets mostly)
+- **Explore** (initial explorations, get a general sense how the data is structured)
 - -  In general any exports for other files to use will also be found here
-- Descriptives (Explore content like means, variances and defined variables) will be listed and shown
-- Analysis (This will almost always be some kind of exploratory analysis)
-- Further analysis (here is where more involved analysis and/or models will be found)
+- **Descriptives** (Explore content like means, variances and defined variables) will be listed and shown
+- **Analysis** (This will almost always be some kind of exploratory analysis)
+- **Further analysis** (here is where more involved analysis and/or models will be found)
 
 ## Analyses I am interested in exploring
 
