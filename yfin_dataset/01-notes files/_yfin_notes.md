@@ -17,4 +17,4 @@ https://realpython.com/pandas-groupby/
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
 https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/
 
-## Overall structure
+## Approach to the data
