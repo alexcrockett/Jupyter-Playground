@@ -26,7 +26,7 @@ Another interesting factor are the results for the standard deviations for all s
 **The standard deviation**
 The standard deviation is written:
 
-$s = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \bar{x})^2}$
+$\sigma = \sqrt {\frac{\sum (x_i - \mu )^2}{N}}$ 
 
 It tells us the degree to which values vary. What is interesting is that the standard deviation for each set of data seems to be relatively consistent, all are in the range of 275 $\pm 4$. Similarly, the means are all within the range of 140 $\pm 2$, which suggests a few possibilities:
 
