@@ -3,7 +3,7 @@ We can see that the data has some very interesting features from the initial ana
 
 ## Descriptive statistics (observations)
 
-**From [fin_descriptives.ipynb](high_level_descriptives)** 
+**From [fin_descriptives.ipynb]** 
 - The mean and the median have some distance between them. The mean is higher by double across all values (Open, Close, High, Low and Volume).
 
 ### Skewness
@@ -26,7 +26,7 @@ Another interesting factor are the results for the standard deviations for all s
 **The standard deviation**
 The standard deviation is written:
 
-$\sigma = \sqrt{\frac{1}{N} \sum_{i=1}^N (x_i - \mu)^2}$
+$s = \sqrt{\frac{1}{N-1} \sum_{i=1}^{N} (x_i - \bar{x})^2}$
 
 It tells us the degree to which values vary. What is interesting is that the standard deviation for each set of data seems to be relatively consistent, all are in the range of 275 $\pm 4$. Similarly, the means are all within the range of 140 $\pm 2$, which suggests a few possibilities:
 
