@@ -56,11 +56,11 @@ Finally, creating a data-frame with the outputs of the analysis discussed here a
 - Factor Analysis or Principal Component Analysis 
 - Structural Equation Modeling 
 
-# Data
+## Data
 
-## First and last quartiles
+### First and last quartiles
 
-Companies in the first quartile:
+#### Companies in the first quartile:
 Company
 ABEV     2.947499
 BAC     30.790636
@@ -74,8 +74,8 @@ WMB     23.720061
 WPM     36.569403
 WY      28.026198
 Name: Average, Length: 123, dtype: float64
--------------------
-Companies in the fourth quartile:
+
+#### Companies in the fourth quartile:
 Company
 ACN     249.476417
 ADBE    417.060667
@@ -89,33 +89,32 @@ WST     270.453652
 WTW     204.263422
 ZM      173.939238
 Name: Average, Length: 123, dtype: float64
--------------------
-Lowest company in the first quartile:
+
+#### Lowest company in the first quartile:
 Company
 LYG    2.102133
 Name: Average, dtype: float64
--------------------
-Highest in the first quartile
+
+#### Highest in the first quartile
 Company
 BK    42.263321
 Name: Average, dtype: float64
--------------------
-Lowest company in the fourth quartile:
+
+#### Lowest company in the fourth quartile:
 Company
 VMC    155.851637
 Name: Average, dtype: float64
--------------------
-Highest company in the fourth quartile:
+
+#### Highest company in the fourth quartile:
 Company
 NVR    4369.584363
 Name: Average, dtype: float64
--------------------
 
 
-## Range Statistics
 
------
-Mean Range
+### Range Statistics
+
+#### Mean Range
 Company
 A       2.481682
 AAPL    2.666117
@@ -129,8 +128,8 @@ ZM      8.445569
 ZS      6.485945
 ZTS     3.299444
 Name: Range, Length: 491, dtype: float64
--------------------
-Min Range
+
+#### Min Range
 Company
 A       0.435815
 AAPL    0.281952
@@ -144,8 +143,8 @@ ZM      0.883999
 ZS      0.619999
 ZTS     0.670361
 Name: Range, Length: 491, dtype: float64
--------------------
-Max Range
+
+#### Max Range
 Company
 A       11.565640
 AAPL    12.566008
@@ -159,8 +158,8 @@ ZM      68.179993
 ZS      59.039978
 ZTS     15.160277
 Name: Range, Length: 491, dtype: float64
--------------------
-Standard Deviation of Range
+
+#### Standard Deviation of Range
 Company
 A       1.389413
 AAPL    1.697801
@@ -174,46 +173,44 @@ ZM      8.151012
 ZS      4.900544
 ZTS     1.808373
 Name: Range, Length: 491, dtype: float64
--------------------
--------------------
--------------------
-Company with Highest Mean Range
+
+#### Company with Highest Mean Range
 Company
 NVR    119.994398
 Name: Range, dtype: float64
--------------------
-Company with Lowest Mean Range
+
+#### Company with Lowest Mean Range
 Company
 LYG    0.044054
 Name: Range, dtype: float64
--------------------
-Company with Highest Min Range
+
+#### Company with Highest Min Range
 Company
 NVR    25.780029
 Name: Range, dtype: float64
--------------------
-Company with Lowest Min Range
+
+#### Company with Lowest Min Range
 Company
 CARR    0.0
 Name: Range, dtype: float64
--------------------
-Company with Highest Max Range
+
+#### Company with Highest Max Range
 Company
 NVR    657.209961
 Name: Range, dtype: float64
--------------------
-Company with Lowest Max Range
+
+#### Company with Lowest Max Range
 Company
 LYG    0.175404
 Name: Range, dtype: float64
--------------------
-Company with Highest Std Range
+
+#### Company with Highest Std Range
 Company
 NVR    58.824867
 Name: Range, dtype: float64
--------------------
-Company with Lowest Std Range
+
+#### Company with Lowest Std Range
 Company
 LYG    0.019514
 Name: Range, dtype: float64
--------------------
+
