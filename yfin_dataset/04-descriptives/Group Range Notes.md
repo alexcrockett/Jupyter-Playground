@@ -63,6 +63,7 @@ Finally, creating a data-frame with the outputs of the analysis discussed here a
 #### Companies in the first quartile:
 Company
 ABEV     2.947499
+
 BAC     30.790636
 BBD      4.368681
 BBVA     4.879372
