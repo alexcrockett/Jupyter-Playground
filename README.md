@@ -2,6 +2,11 @@
 
 Hi and welcome to the playground. In the spirit of live-learning this repo contains Jupyter notebooks I am using in real time to learn both Python, data-science and machine learning. The space is organized by data-set and each data set is then built of sub-directories.
 
+| Directory | Status | Notes  | 
+|-----------|--------|--------|
+| Apple Stocks | In Progress | More active on yfin right now |
+| yfin | Actively working on | Five years of financial data from Yahoo finance |
+
 **In general subdirectories are organized**:
 - **Notes** (including my own references and sources for data ... usually kaggle)
 - **Data** (spreadhseets mostly)
