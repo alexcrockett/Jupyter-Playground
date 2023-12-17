@@ -47,6 +47,11 @@ Finally, creating a data-frame with the outputs of the analysis discussed here a
 
 ### Further analysis in general
 
+#### Cleaning data
+- Identify and remove outliers
+- Create variable for data with and without high range companies
+- Reevaluate skew
+
 #### Correlation
 - Correlations to see how data on range correlates with price
 - Correlations to see how Open and Close prices compare, especially with range as it is defined here
