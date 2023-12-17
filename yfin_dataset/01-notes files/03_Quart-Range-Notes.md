@@ -47,7 +47,7 @@ Finally, creating a data-frame with the outputs of the analysis discussed here a
 
 ### Further analysis in general
 
-#### Cleaning data
+#### Cleaning data (next steps)
 - Identify and remove outliers
 - Create variable for data with and without high range companies
 - Reevaluate skew
