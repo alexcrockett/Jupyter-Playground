@@ -52,6 +52,11 @@ Finally, creating a data-frame with the outputs of the analysis discussed here a
 - Correlations to see how Open and Close prices compare, especially with range as it is defined here
 - Correlation to see how range correlates with the mean value of a company over time
 
+#### Interactions
+- ANOVA (will probably need to create some new variables or new data table)
+
 #### Structure 
-- Factor Analysis or Principal Component Analysis 
-- Structural Equation Modeling 
+- Factor Analysis (Find dimensions/underlying structure) 
+- Structural Equation Modeling (Find underlying structure/hidden variables | **library**: https://semopy.com/)
+
+We will start with correlations and continue to make observations as we go. FiRst however, we will create some graphical outputs to help visualize our findings.
