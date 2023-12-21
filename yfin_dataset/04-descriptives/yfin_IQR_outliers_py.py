@@ -158,7 +158,7 @@ print("count: ", outlier_companies_count)
 
 # Renaming datasets
 
-set_1 = yfin_csv.copy # A copy of the original data
-set_2 = yfin_restricted_set.copy # A copy of the data without outliers
+set_1 = yfin_csv.copy() # A copy of the original data
+set_2 = yfin_restricted_set.copy() # A copy of the data without outliers
 
 
